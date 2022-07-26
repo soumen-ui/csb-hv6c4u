@@ -1,0 +1,2 @@
+(this["webpackJsonpgit-host-try-1"]=this["webpackJsonpgit-host-try-1"]||[]).push([[0],{12:function(t,e,c){},14:function(t,e,c){"use strict";c.r(e);var n=c(1),i=c(3),s=(c(12),c(0));function o(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Hello CodeSandbox in git"}),Object(s.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var r=document.getElementById("root");Object(i.createRoot)(r).render(Object(s.jsx)(n.StrictMode,{children:Object(s.jsx)(o,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.40e3cbf7.chunk.js.map
